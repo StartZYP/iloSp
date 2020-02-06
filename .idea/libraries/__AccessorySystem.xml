@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="[饰品系统]AccessorySystem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/[饰品系统]AccessorySystem.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
