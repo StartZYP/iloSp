@@ -55,10 +55,6 @@ public class main extends JavaPlugin implements Listener {
             AddiloSp((Player) e.getDamager(), e.getDamagerManager());
         }
 
-        if (e.getEntity() != null && e.getEntity() instanceof Player) {
-            AddiloSp((Player) e.getDamager(), e.getDamagerManager());
-        }
-
     }
     private void AddiloSp(Player p, List<ItemLoreManager> list) {
         if (list != null) {
